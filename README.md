@@ -1,4 +1,2 @@
-# WDT-Page
-Web page for Diploma Web Development Module
-
-USE AT YOUR OWN RISK!
+# WDT-GROWNET
+Website for agriculture; from materials all the way to guidance
